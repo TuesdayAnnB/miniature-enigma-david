@@ -1,4 +1,10 @@
 body {
-background: url('https://static.vecteezy.com/system/resources/thumbnails/008/287/433/small/empty-room-house-interior-after-renovation-vector.jpg');
-background-size: auto;
-};
+background: url("https://thedesigncure.com/wp-content/uploads/2020/07/5a243513a69b150001f56c31_emptyroom6.jpg");
+background-size: 90%;
+background-repeat: no-repeat;
+}
+#chair{
+    width: 300px;
+    height: auto;
+
+}
