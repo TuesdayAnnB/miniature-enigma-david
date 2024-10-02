@@ -1,10 +1,39 @@
 body {
 background: url("https://thedesigncure.com/wp-content/uploads/2020/07/5a243513a69b150001f56c31_emptyroom6.jpg");
-background-size: 90%;
+background-size: 100%;
 background-repeat: no-repeat;
 }
-#chair{
-    width: 300px;
+.furniture{
+    position: absolute;
+}
+ #chair{
+    max-width: 10%;
     height: auto;
-
+    top: 54%;
+    left: 28%;
+}
+#painting{
+    max-width: 10%;
+    height: auto;
+    top: 40%;
+    left: 40%; 
+}
+#pottedplant{
+    max-width: 50%;
+    height: auto;
+    top: 45%;
+    left: 57%;
+}
+#kaboom{
+    max-width: 3%;
+    height: auto;
+    top: 0%;
+    left: 0%;
+}
+#victoryMessage{
+    font-size: 40px;
+    left: 50%;
+    background-color: floralwhite;
+    text-align: center;
+    width: 250px;
 }
