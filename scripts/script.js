@@ -4,7 +4,7 @@ $(document).ready(function(){
   let plantStyle = document.getElementById("pottedplant").style;
   let kaboomStyle = document.getElementById("kaboom").style;
 
-  let positions = [ ["30%", "45%", "67%"], ["75%", "43%", "75%"] ];
+  let positions = [ ["30%", "40%", "67%"], ["75%", "43%", "75%"] ];
   let randPosition = (Math.floor(Math.random() * 3));
 
   let originalKaboom = document.getElementById("kaboom").src;
