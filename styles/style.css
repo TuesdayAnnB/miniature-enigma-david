@@ -19,21 +19,26 @@ background-repeat: no-repeat;
     left: 40%; 
 }
 #pottedplant{
-    max-width: 50%;
+    max-width: 20%;
     height: auto;
-    top: 45%;
+    top: 47%;
     left: 57%;
 }
 #kaboom{
-    max-width: 3%;
+    max-width: 5%;
     height: auto;
     top: 0%;
     left: 0%;
 }
 #victoryMessage{
+    position: absolute;
     font-size: 40px;
-    left: 50%;
-    background-color: floralwhite;
+    bottom: 0;
+    left: 0;
     text-align: center;
-    width: 250px;
+    background-color: rgb(222, 135, 186);
+    border: rgb(68, 67, 67);
+    border-width: 2px;
+    border-style: solid;
+    margin: 0px;
 }
